@@ -35,5 +35,28 @@ Outputs are delivered via **interactive Tableau dashboards** to support evidence
 
 ---
 
-## Repository Structure
+
+---
+
+## 🗃️ Data Sources
+
+- **STATS19** (collisions, casualties, vehicles), UK last 5 years.
+- **Weather**: Open-Meteo hourly rainfall & sunshine duration.
+- **Events**: Leeds United home fixtures (2019-2023).
+
+> _Note:_ Large/raw datasets are **not** committed. See `data/README.md` for how to obtain and place files locally.
+
+---
+
+## 🧪 Reproducibility
+
+### 1) Create environment
+```bash
+# Option A: pip
+python -m venv .venv && source .venv/bin/activate    # (Windows: .venv\Scripts\activate)
+pip install -r requirements.txt
+
+# Option B: conda
+conda env create -f environment.yml
+conda activate leeds-rta
 
