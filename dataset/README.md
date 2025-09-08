@@ -1,1 +1,18 @@
-# data folder
+# Data Guide
+
+Raw data is not stored in this repository due to size and licensing.
+
+## Sources
+- STATS19 road safety data (DfT)
+- Weather: Open-Meteo API
+- Leeds United home fixtures (2019-2023)
+
+## Steps
+1. Download STATS19 datasets (collisions, vehicles, casualties) from data.gov.uk > Road Safety Data
+**link:** https://www.data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-accidents-safety-data
+
+2. Fetch hourly weather data using Open-Meteo.  
+**link:** https://open-meteo.com/en/docs/historical-weather-api
+
+3. Collect Leeds United fixtures from football-data.co.uk
+**link:** https://www.football-data.co.uk/englandm.php
