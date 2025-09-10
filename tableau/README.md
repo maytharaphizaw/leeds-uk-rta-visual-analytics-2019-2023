@@ -22,7 +22,7 @@ Friday football matchdays = higher accident risk near Elland Road (7 km radius).
 
 Light rain and glare caused more accidents than heavy rain.
 
-Rush-hour peaks (8–9 AM, 4–6 PM); Fridays had the highest risk.
+Rush-hour peaks (8-9 AM, 4-6 PM), Fridays had the highest risk.
 
 Young male drivers, 11–15 pedestrians, and cyclists were most vulnerable.
 
