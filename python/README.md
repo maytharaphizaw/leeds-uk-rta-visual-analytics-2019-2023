@@ -1,13 +1,1 @@
-## Install dependencies:
-
-pip install 
-
-pandas
-numpy
-matplotlib
-statsmodels
-geopy
-tqdm
-folium
-jupyter
-
+## Find Python Output in zip file named 'RTA Data Preprocessing and EDA'
